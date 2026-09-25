@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/CalfMoon/signal-desktop/stargazers"><img src="https://img.shields.io/github/stars/CalfMoon/signal-desktop?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/CalfMoon/signal-desktop/issues"><img src="https://img.shields.io/github/issues/CalfMoon/signal-desktop?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/CalfMoon/signal-desktop/contributors"><img src="https://img.shields.io/github/contributors/CalfMoon/signal-desktop?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/kalex3/signal-catppuccin/stargazers"><img src="https://img.shields.io/github/stars/CalfMoon/signal-desktop?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/kalex3/signal-catppuccin/issues"><img src="https://img.shields.io/github/issues/CalfMoon/signal-desktop?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/kalex3/signal-catppuccin/contributors"><img src="https://img.shields.io/github/contributors/CalfMoon/signal-desktop?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -75,12 +75,6 @@
 	sudo asar p ${TEMP} "${SIGNAL_DIR}/app.asar"
 	```
 7. Enjoy!
-
-# 💝 Thanks to
-
-- [CalfMoon](https://github.com/CalfMoon)
-
-&nbsp;
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
